@@ -7,7 +7,8 @@
 
 
 ![Lamaison's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamaison22&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamaison22&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamaison22&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamaison22&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 div style="display: inline_block"><br>
   <img align="center" alt="Joao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
