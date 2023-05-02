@@ -10,9 +10,12 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lamaison22&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamaison22&layout=compact&langs_count=7&theme=tokyonight"/>
 -->
-   <a href=""> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lamaison22&theme=tokyonight"/> </a>
+  <a href="" ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lamaison22&theme=tokyonight&show_icons=true" /> </a>
+   
+   
+   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lamaison22&layout=compact&langs_count=7&theme=tokyonight&line_height=40&hide=css"/> </a>
   
-   <a href=""> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lamaison22&layout=compact&langs count=7&theme=tokyonight"/> </a>
+   
 </div>
 
 <p><h2 align="center">Languages and Technologies</h2></p>
