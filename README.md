@@ -1,4 +1,4 @@
-## Olár eu sou o João Lamaison estudante de Ciência da Computação
+## Olá eu sou o João Lamaison estudante de Ciência da Computação
 
 
 
